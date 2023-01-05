@@ -33,8 +33,8 @@ const Comienzo = () => {
       <Row xs={1} md={2} className="g-2 justify-content-center">
         <Col className="col-md-3 pl-5 w-50">
           <div className="alert alert-info  w-100">
-            <h1>Objetivo:</h1>
-            <p>hola objetivo</p>
+            <h1>Misión:</h1>
+            <p>Proveer de las herramientas necesarias para una correcta educación, comenzando por la accesibilidad de los recursos apropiados para el estudiantado, así como dotar a los profesores de los recursos electrónicos suficientes, logrando así una sinergia de educación compartida, mejorando la enseñanza a nivel superior</p>
             <hr />
             <p className="mb-0">El conocimiento al alcance de todos.</p>
           </div>
@@ -44,7 +44,8 @@ const Comienzo = () => {
           <div className="alert alert-info">
             <h1>Vision:</h1>
 
-            <p>hola objetivo</p>
+            <p>Basados en las herramientas creadas, dotar de las mismas a diversos niveles educativos, compartiendo todas las experiencias comprendidas de manera inicial, mejorando de manera continua el soporte y experiencia del usuario, enfocados a las necesidades inherentes de los mismos
+</p>
             <hr />
             <p className="mb-0">La raices del mañana.</p>
           </div>
